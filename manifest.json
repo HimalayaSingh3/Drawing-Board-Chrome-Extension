@@ -1,0 +1,12 @@
+{
+    "name": "Drawing Board",
+    "version": "1.0",
+    "description": "Drawing Board Extension",
+    "manifest_version": 4,
+    "chrome_url_overrides":{
+        "newtab":"index.html"
+    },
+    "icons":{
+        "2":"logo.png"
+    }
+}
